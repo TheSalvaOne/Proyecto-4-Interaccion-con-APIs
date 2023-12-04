@@ -20,9 +20,10 @@ Se incluye un botón que permite cambiar aleatoriamente al Pokémon mostrado en 
 
 ## Tecnologías Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+
 
 ## Instrucciones para Ejecutar el Proyecto
 
@@ -33,8 +34,4 @@ Se incluye un botón que permite cambiar aleatoriamente al Pokémon mostrado en 
 ---
 
 ¡Espero que disfrutes explorando el fascinante mundo de Pokémon a través de este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en comunicarte. ¡Diviértete codificando! 🌟
-
-- ![HTML5](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 
