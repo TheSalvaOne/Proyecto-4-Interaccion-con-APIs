@@ -1,4 +1,5 @@
 # Proyecto 4: Interacción con la API de Pokémon
+![Imagen](https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png)
 
 🚀 Proyecto para el Bootcamp de Factoría F5: Explorando las APIs con Pokémon 🌐
 
