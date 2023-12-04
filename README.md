@@ -1,7 +1,6 @@
 # Proyecto 4 Interacción con la API
 
-Done: No
-Archive: No
+
 
 🚀 **Proyecto para el Bootcamp de Factoría F5: Explorando las APIs con Pokémon** 🌐
 
