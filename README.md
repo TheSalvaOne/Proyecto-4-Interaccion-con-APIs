@@ -1,25 +1,39 @@
-# Proyecto 4 Interacción con una API
+# Proyecto 4: Interacción con la API de Pokémon
 
+🚀 Proyecto para el Bootcamp de Factoría F5: Explorando las APIs con Pokémon 🌐
 
+👋🏼 ¡Hola! Este proyecto está diseñado para el bootcamp de Factoría F5, centrado en nuestra primera toma de contacto con las APIs. 📢 En este proyecto, nos sumergiremos en la fascinante información de la API de Pokémon para crear una página web interactiva que presenta detalles de un Pokémon específico.
 
-🚀 **Proyecto para el Bootcamp de Factoría F5: Explorando las APIs con Pokémon** 🌐
+## Características del Proyecto:
 
-<aside>
-👋🏼 ¡Hola! Este proyecto está diseñado para el bootcamp de Factoría F5, enfocado en nuestra primera toma de contacto con las APIs.
+### Página Web Interactiva
 
-</aside>
+Al iniciarse, la página presenta información detallada de un Pokémon aleatorio. 🎮
 
-<aside>
-📢 Decidí sumergirme en la nostalgia y crear una página web centrada en la querida saga de Pokémon, explorando la fascinante información disponible a través de la API de Pokémon.
+### Diseño de Carta Pokémon
 
-</aside>
+El Pokémon se presenta en un elegante diseño de carta dentro de un contenedor. Al pasar el ratón sobre la carta, esta se da la vuelta, revelando tres estadísticas base importantes: Puntos de Vida, Ataque y Defensa. 🃏💥
 
-![PokeAPi](https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png)
+### Botón para Cambiar Pokémon
 
-**Características del Proyecto:**
+Se incluye un botón que permite cambiar aleatoriamente al Pokémon mostrado en la página. Con cada clic, se obtiene información de un nuevo Pokémon y se actualiza la presentación en la carta.
 
-- **Página Web Interactiva:** Al iniciarse, la página presenta a los 9 primeros Pokémon de la Pokédex. 🎮
-- **Diseño de Cartas Pokémon:** Los Pokémon se presentan en un elegante diseño de cartas dentro de un contenedor. Al pasar el ratón sobre una carta, esta se da la vuelta, revelando tres estadísticas base importantes: Puntos de Vida, Ataque y Defensa. 🃏💥
+## Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Instrucciones para Ejecutar el Proyecto
+
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo `index.html` en tu navegador web.
+3. ¡Explora la información de Pokémon y diviértete!
+
+---
+
+¡Espero que disfrutes explorando el fascinante mundo de Pokémon a través de este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en comunicarte. ¡Diviértete codificando! 🌟
+
 - ![HTML5](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
