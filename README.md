@@ -20,3 +20,7 @@
 
 - **Página Web Interactiva:** Al iniciarse, la página presenta a los 9 primeros Pokémon de la Pokédex. 🎮
 - **Diseño de Cartas Pokémon:** Los Pokémon se presentan en un elegante diseño de cartas dentro de un contenedor. Al pasar el ratón sobre una carta, esta se da la vuelta, revelando tres estadísticas base importantes: Puntos de Vida, Ataque y Defensa. 🃏💥
+- ![HTML5](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+
