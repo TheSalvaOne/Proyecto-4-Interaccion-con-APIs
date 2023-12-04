@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #8C1B24;
+    color: #D9C6BF;
+    padding: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    color: #D9C6BF;
+    text-decoration: none;
+}
+
+main {
+    background-color: #A68263;
+    padding: 2rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pokemonInfoContainer {
+    background-color: #D9C6BF;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+button {
+    background-color: #593D2D;
+    color: #D9C6BF;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+/* Colores y emojis decorativos */
+
+h1 {
+    color: #BF2424; /* Rojo oscuro */
+}
+
+#pokemonInfoContainer p {
+    color: #BF2424; /* Rojo oscuro */
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #BF2424; /* Cambio de color al pasar el ratón */
+}
+
