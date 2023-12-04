@@ -15,7 +15,7 @@ Archive: No
 
 </aside>
 
-![Untitled](Proyecto%204%20Interaccio%CC%81n%20con%20la%20AP%20b6fedc909f26417aa04ac790253ab002/Untitled.png)
+https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png
 
 **Características del Proyecto:**
 
