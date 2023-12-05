@@ -13,7 +13,7 @@ Al iniciarse, la página presenta información detallada de un Pokémon aleatori
 
 ### Diseño de Carta Pokémon
 
-El Pokémon se presenta en un elegante diseño de carta dentro de un contenedor. Esta carta de presenta los siguientes datos del Pokemón🃏💥:
+El Pokémon se presenta en un elegante diseño de carta dentro de un contenedor. Esta carta se presenta los siguientes datos del Pokemón🃏💥:
 
 - Puntos de vida: 💖
 - Tipo(s):🧪
