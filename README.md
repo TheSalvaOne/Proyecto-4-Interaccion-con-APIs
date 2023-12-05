@@ -13,7 +13,11 @@ Al iniciarse, la página presenta información detallada de un Pokémon aleatori
 
 ### Diseño de Carta Pokémon
 
-El Pokémon se presenta en un elegante diseño de carta dentro de un contenedor. Al pasar el ratón sobre la carta, esta se da la vuelta, revelando tres estadísticas base importantes: Puntos de Vida, Ataque y Defensa. 🃏💥
+El Pokémon se presenta en un elegante diseño de carta dentro de un contenedor. Esta carta de presenta los siguientes datos del Pokemón🃏💥:
+-Puntos de vida: 💖
+- Tipo(s):🧪
+- Ataque:⚔️
+- Defensa: 🛡️
 
 ### Botón para Cambiar Pokémon
 
