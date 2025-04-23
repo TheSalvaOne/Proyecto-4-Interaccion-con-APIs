@@ -38,7 +38,7 @@ Se incluye un botón que permite cambiar aleatoriamente al Pokémon mostrado en 
 2. Abre el archivo `index.html` en tu navegador web.
 3. ¡Explora la información de Pokémon y diviértete!
 ### Link del Deployment
-https://famous-peony-bc17bc.netlify.app/
+https://poke-api-thesalvaone.netlify.app/
 
 ---
 
